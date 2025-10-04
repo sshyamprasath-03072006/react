@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 PART 1: JAVASCRIPT BASICS — FROM ZERO
+## 📚 PART 1: JAVASCRIPT BASICS FROM ZERO
 
 ### 🔹 1. Variables: `let`, `const`, `var`
 
